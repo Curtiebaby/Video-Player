@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]>      <html class="no-js"> <!--<![endif]-->
+
+<html lang="en">
+
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>Video</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <!--[if lt IE 7]>
+            <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="#">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+
+        <div class="video">
+
+        <video width="50%" height="40%" controls>
+
+            <source src="video/Stay Away From The Walls (Black Hawk Down).mp4" type="video/mp4">
+
+        </video>
+
+        <video width="50%" height="40%" controls>
+
+            <source src="video/Keyser Soze (The Story).mp4" type="video/mp4">
+
+        </video>
+
+        </div>
+
+        <div class="audio">
+
+        <audio width="35%" height="30%"  controls>
+            <source src="audio/Balloon.mp3" type="audio/mp3">
+        </audio>
+
+        <audio controls>
+            <source src="audio/Sister Pain.mp3" type="audio/mp3">
+        </audio>
+
+        <audio controls>
+            <source src="audio/Open up Your Mind (Let Me In).mp3">
+        </audio>
+
+        </div>
+
+        <p> Hey watch a flick, listen to a tune!  Enjoy!</p>
+        
+
+    </body>
+
+
+</html>
